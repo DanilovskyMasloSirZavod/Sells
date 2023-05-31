@@ -1,5 +1,12 @@
 # Документация к проекту
 
+**Нужно создать .env файл**
+```
+REACT_APP_SERVER_URL=https://localhost:7070/api/Service
+REACT_APP_YANDEX_API_KEY=9bdf86ce-ff3a-42a6-aedb-87141273b8f4
+```
+
+
 Здесь будет предоставлена вся документация по данному проекту с примерами.
 
 _Если всё понравилось вы также можете заценить мой [github](https://github.com/nik0rai)⭐_.
